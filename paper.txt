@@ -1,4 +1,9 @@
 Just some stuff about dunes
 Subtitle: Subtitle
 Authors: Me, Myself & I
+<<<<<<< HEAD
 Co-Author: Andrew & Andrew
+=======
+Co-Author: Andrew
+Caitlin says hi
+>>>>>>> ad5eade71681d93b2399c08a1485c238b8a9ec5d
